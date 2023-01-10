@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2d607b-9741-41fe-b469-06d2ea64406f" name="Changes" comment="Tasks 1">
+    <list default="true" id="7a2d607b-9741-41fe-b469-06d2ea64406f" name="Changes" comment="Tasks 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673367344514</updated>
-      <workItem from="1673367346164" duration="2367000" />
+      <workItem from="1673367346164" duration="3560000" />
     </task>
     <task id="LOCAL-00001" summary="conditional operators part 2">
       <created>1673367675395</created>
@@ -80,15 +80,46 @@
       <option name="project" value="LOCAL" />
       <updated>1673368525218</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tasks 2">
+      <created>1673369869550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673369869550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Tasks" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="conditional operators part 2" />
     <MESSAGE value="Tasks 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 1" />
+    <MESSAGE value="Tasks 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks 2" />
   </component>
 </project>
